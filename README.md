@@ -1,9 +1,6 @@
 # AI-Object-Detector
 A lightweight Computer Vision application using Deep Learning to identify daily objects and announce them via Text-to-Speech for visually impaired users.
 
-# AI Object Detector
-**An AI-Powered Assistive Tool for the Visually Impaired**
-
 AI Object Detector is a real-time object detection system designed to assist visually impaired individuals in identifying daily objects. Built using **Python**, **YOLOv8**, and **OpenCV**, this project acts as an Intelligent Agent that perceives the environment through a webcam and communicates findings via Text-to-Speech (TTS).
 
 
