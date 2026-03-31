@@ -35,4 +35,5 @@ Open your terminal in VS Code and run the following commands:
 
 # Install the required Python libraries
 pip install ultralytics opencv-python pyttsx3
-open command prompt and copy paste the above command there or simply copy paste in the VS Code terminal
+
+**open command prompt and copy paste the above command there or simply copy paste in the VS Code terminal**
